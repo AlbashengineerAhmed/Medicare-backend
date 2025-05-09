@@ -1,12 +1,12 @@
 # Medicare - Doctor Appointment Booking System
 
-![Medicare Logo](frontend/src/assets/images/logo.png)
+![Medicare Logo](Demo/logo.png)
 
 Medicare is a comprehensive MERN stack application designed to streamline the process of booking medical appointments. The platform connects patients with healthcare providers, allowing for efficient scheduling, management of medical records, and seamless communication between doctors and patients.
 
-![Doctors](https://github.com/AlbashengineerAhmed/Doctor-Appointment-Booking-MERN-Stack/assets/124532428/db8552ba-4542-4be4-915a-7f54f8964bf3)
+![Doctors](Demo/Doctors.png)
 
-![Hero](https://github.com/AlbashengineerAhmed/Doctor-Appointment-Booking-MERN-Stack/assets/124532428/4a80f4e8-6bfc-48de-be26-99250067d161)
+![Hero](Demo/Hero.PNG)
 
 ## ✨ Features
 
